@@ -4,7 +4,7 @@ A sample for C# [GDWeave](https://github.com/NotNite/GDWeave) mods.
 
 ## Setup
 
-Clone/fork/whatever this repository. Pick an ID for your project (people like to do `Username.ProjectName`, but there is no enforced naming scheme). Rename the following:
+I Cloned/forked/whatevered this repository. Picked an ID for your project (i liked to do `yvesoup.maptest`, but there was no enforced naming scheme). Renamed the following:
 
 - Solution name, project name, and project namespace to your project ID
 - Various fields in the manifest.json to your project ID and name
