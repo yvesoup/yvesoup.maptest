@@ -1,6 +1,6 @@
-﻿using GDWeave;
+﻿using yvesoup;
 
-namespace GDWeave.Sample;
+namespace yvesoup.maptest;
 
 public class Mod : IMod {
     public Config Config;
