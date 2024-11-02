@@ -1,0 +1,10 @@
+{
+  "Id": "yvesoup.maptest",
+  "AssemblyPath": "yvesoup.maptest.dll",
+  "Metadata": {
+    "Name": "yvesoup maptest",
+    "Author": "yvesoup",
+    "Version": "1.0.0",
+    "Description": "This is a sample mod. Map baby, you don't know what you want."
+  }
+}
